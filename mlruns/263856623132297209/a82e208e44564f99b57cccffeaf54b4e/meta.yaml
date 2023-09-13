@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/a82e208e44564f99b57cccffeaf54b4e/artifacts
+end_time: 1694293470610
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: a82e208e44564f99b57cccffeaf54b4e
+run_name: lyrical-midge-379
+run_uuid: a82e208e44564f99b57cccffeaf54b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694293470546
+status: 3
+tags: []
+user_id: Hodaya Sasson

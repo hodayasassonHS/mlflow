@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/b91b490c2770483b886700f235b8b712/artifacts
+end_time: 1694349397455
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: b91b490c2770483b886700f235b8b712
+run_name: stately-colt-922
+run_uuid: b91b490c2770483b886700f235b8b712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694349397398
+status: 3
+tags: []
+user_id: Hodaya Sasson

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/abf031558292413fae8a5802fbf8a73e/artifacts
+end_time: 1694291291505
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: abf031558292413fae8a5802fbf8a73e
+run_name: traveling-kit-142
+run_uuid: abf031558292413fae8a5802fbf8a73e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694291291424
+status: 4
+tags: []
+user_id: Hodaya Sasson

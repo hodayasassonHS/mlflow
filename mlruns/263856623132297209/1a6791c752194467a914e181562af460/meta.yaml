@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/1a6791c752194467a914e181562af460/artifacts
+end_time: 1694424723513
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 1a6791c752194467a914e181562af460
+run_name: judicious-kite-98
+run_uuid: 1a6791c752194467a914e181562af460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694424723437
+status: 3
+tags: []
+user_id: Hodaya Sasson

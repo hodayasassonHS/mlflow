@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/05e900a05bae4d4789f5ecf2eb6bd3d2/artifacts
+end_time: 1694427434114
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 05e900a05bae4d4789f5ecf2eb6bd3d2
+run_name: persistent-eel-595
+run_uuid: 05e900a05bae4d4789f5ecf2eb6bd3d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694427433996
+status: 3
+tags: []
+user_id: Hodaya Sasson

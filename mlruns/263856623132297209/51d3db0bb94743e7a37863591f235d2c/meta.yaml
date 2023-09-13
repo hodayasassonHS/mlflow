@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/51d3db0bb94743e7a37863591f235d2c/artifacts
+end_time: 1694432125145
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 51d3db0bb94743e7a37863591f235d2c
+run_name: gentle-panda-141
+run_uuid: 51d3db0bb94743e7a37863591f235d2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694432125061
+status: 3
+tags: []
+user_id: Hodaya Sasson

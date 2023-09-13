@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/b52a3772c8dd4c9b9575ac1bde888c4e/artifacts
+end_time: 1694290055584
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: b52a3772c8dd4c9b9575ac1bde888c4e
+run_name: polite-skunk-156
+run_uuid: b52a3772c8dd4c9b9575ac1bde888c4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694290055523
+status: 4
+tags: []
+user_id: Hodaya Sasson

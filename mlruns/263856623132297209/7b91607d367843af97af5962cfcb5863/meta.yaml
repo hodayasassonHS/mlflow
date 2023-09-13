@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/7b91607d367843af97af5962cfcb5863/artifacts
+end_time: 1694289832751
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 7b91607d367843af97af5962cfcb5863
+run_name: melodic-foal-616
+run_uuid: 7b91607d367843af97af5962cfcb5863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694289832695
+status: 4
+tags: []
+user_id: Hodaya Sasson

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/eb3aaf5291d645468f484eed4025afc6/artifacts
+end_time: 1694431627051
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: eb3aaf5291d645468f484eed4025afc6
+run_name: receptive-hawk-359
+run_uuid: eb3aaf5291d645468f484eed4025afc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694431626984
+status: 3
+tags: []
+user_id: Hodaya Sasson

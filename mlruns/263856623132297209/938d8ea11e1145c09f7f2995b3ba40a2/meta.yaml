@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/938d8ea11e1145c09f7f2995b3ba40a2/artifacts
+end_time: 1694436340447
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 938d8ea11e1145c09f7f2995b3ba40a2
+run_name: masked-skunk-221
+run_uuid: 938d8ea11e1145c09f7f2995b3ba40a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694436340390
+status: 3
+tags: []
+user_id: Hodaya Sasson

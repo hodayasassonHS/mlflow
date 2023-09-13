@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/cda0bb0a0afa405eb61c45ef30f4d4a4/artifacts
+end_time: 1694422580970
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: cda0bb0a0afa405eb61c45ef30f4d4a4
+run_name: clumsy-elk-680
+run_uuid: cda0bb0a0afa405eb61c45ef30f4d4a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694422580875
+status: 3
+tags: []
+user_id: Hodaya Sasson

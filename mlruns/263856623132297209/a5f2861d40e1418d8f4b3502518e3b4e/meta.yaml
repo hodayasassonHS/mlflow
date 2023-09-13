@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/a5f2861d40e1418d8f4b3502518e3b4e/artifacts
+end_time: 1694427469092
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: a5f2861d40e1418d8f4b3502518e3b4e
+run_name: upbeat-boar-480
+run_uuid: a5f2861d40e1418d8f4b3502518e3b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694427469011
+status: 3
+tags: []
+user_id: Hodaya Sasson

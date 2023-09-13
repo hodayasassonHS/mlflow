@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/83112f2c452949769454ea2eb81570d1/artifacts
+end_time: 1694293373178
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 83112f2c452949769454ea2eb81570d1
+run_name: languid-crow-304
+run_uuid: 83112f2c452949769454ea2eb81570d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694293373117
+status: 3
+tags: []
+user_id: Hodaya Sasson

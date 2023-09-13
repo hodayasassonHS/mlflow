@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/b69a137099234ece8990f0b1373a495b/artifacts
+end_time: 1694289199572
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: b69a137099234ece8990f0b1373a495b
+run_name: awesome-hog-318
+run_uuid: b69a137099234ece8990f0b1373a495b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694289199547
+status: 4
+tags: []
+user_id: Hodaya Sasson

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/cba9b7490df2407ca6b1c8b7a1c59480/artifacts
+end_time: 1694331694546
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: cba9b7490df2407ca6b1c8b7a1c59480
+run_name: intelligent-newt-79
+run_uuid: cba9b7490df2407ca6b1c8b7a1c59480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694331694477
+status: 3
+tags: []
+user_id: Hodaya Sasson

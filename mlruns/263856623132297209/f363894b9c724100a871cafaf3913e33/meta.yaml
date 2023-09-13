@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/f363894b9c724100a871cafaf3913e33/artifacts
+end_time: 1694289079046
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: f363894b9c724100a871cafaf3913e33
+run_name: burly-deer-82
+run_uuid: f363894b9c724100a871cafaf3913e33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694289078892
+status: 4
+tags: []
+user_id: Hodaya Sasson

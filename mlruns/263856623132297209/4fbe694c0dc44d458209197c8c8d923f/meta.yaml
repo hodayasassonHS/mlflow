@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/4fbe694c0dc44d458209197c8c8d923f/artifacts
+end_time: 1694293362491
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 4fbe694c0dc44d458209197c8c8d923f
+run_name: rebellious-duck-78
+run_uuid: 4fbe694c0dc44d458209197c8c8d923f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694293362426
+status: 3
+tags: []
+user_id: Hodaya Sasson

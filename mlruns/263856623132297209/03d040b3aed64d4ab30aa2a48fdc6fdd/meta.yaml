@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/03d040b3aed64d4ab30aa2a48fdc6fdd/artifacts
+end_time: 1694436164584
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 03d040b3aed64d4ab30aa2a48fdc6fdd
+run_name: persistent-calf-219
+run_uuid: 03d040b3aed64d4ab30aa2a48fdc6fdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694436164509
+status: 3
+tags: []
+user_id: Hodaya Sasson

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/f27ddfb781e34205bf735898c16b9cfe/artifacts
+end_time: 1694423282588
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: f27ddfb781e34205bf735898c16b9cfe
+run_name: judicious-toad-107
+run_uuid: f27ddfb781e34205bf735898c16b9cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694423282520
+status: 3
+tags: []
+user_id: Hodaya Sasson

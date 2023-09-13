@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/adc02e34da0e4ba3bc7daa520cf305f7/artifacts
+end_time: 1694331805301
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: adc02e34da0e4ba3bc7daa520cf305f7
+run_name: luxuriant-snake-586
+run_uuid: adc02e34da0e4ba3bc7daa520cf305f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694331805240
+status: 3
+tags: []
+user_id: Hodaya Sasson

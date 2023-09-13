@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/b1b4c52f4fe24033bbfdd92044245829/artifacts
+end_time: 1694431540975
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: b1b4c52f4fe24033bbfdd92044245829
+run_name: gifted-quail-860
+run_uuid: b1b4c52f4fe24033bbfdd92044245829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694431540924
+status: 3
+tags: []
+user_id: Hodaya Sasson

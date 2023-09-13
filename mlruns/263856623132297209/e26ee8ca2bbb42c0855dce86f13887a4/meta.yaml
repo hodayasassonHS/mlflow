@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/e26ee8ca2bbb42c0855dce86f13887a4/artifacts
+end_time: 1694331723189
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: e26ee8ca2bbb42c0855dce86f13887a4
+run_name: carefree-lark-554
+run_uuid: e26ee8ca2bbb42c0855dce86f13887a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694331723101
+status: 3
+tags: []
+user_id: Hodaya Sasson

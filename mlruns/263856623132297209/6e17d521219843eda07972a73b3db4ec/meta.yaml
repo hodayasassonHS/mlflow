@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/6e17d521219843eda07972a73b3db4ec/artifacts
+end_time: 1694291663906
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 6e17d521219843eda07972a73b3db4ec
+run_name: stylish-snail-716
+run_uuid: 6e17d521219843eda07972a73b3db4ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694291663757
+status: 4
+tags: []
+user_id: Hodaya Sasson

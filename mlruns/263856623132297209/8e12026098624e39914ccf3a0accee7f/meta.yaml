@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/8e12026098624e39914ccf3a0accee7f/artifacts
+end_time: 1694435221459
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 8e12026098624e39914ccf3a0accee7f
+run_name: honorable-bird-93
+run_uuid: 8e12026098624e39914ccf3a0accee7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694435221392
+status: 3
+tags: []
+user_id: Hodaya Sasson

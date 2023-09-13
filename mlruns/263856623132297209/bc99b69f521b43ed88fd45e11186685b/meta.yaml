@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/bc99b69f521b43ed88fd45e11186685b/artifacts
+end_time: 1694288965782
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: bc99b69f521b43ed88fd45e11186685b
+run_name: welcoming-lynx-430
+run_uuid: bc99b69f521b43ed88fd45e11186685b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694288965563
+status: 4
+tags: []
+user_id: Hodaya Sasson

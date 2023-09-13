@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/3849f9f425ef415fb77b605abf6647fc/artifacts
+end_time: 1694432143572
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 3849f9f425ef415fb77b605abf6647fc
+run_name: lyrical-stork-986
+run_uuid: 3849f9f425ef415fb77b605abf6647fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694432143512
+status: 3
+tags: []
+user_id: Hodaya Sasson

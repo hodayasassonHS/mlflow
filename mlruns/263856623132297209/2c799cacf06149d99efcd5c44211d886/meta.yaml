@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/2c799cacf06149d99efcd5c44211d886/artifacts
+end_time: 1694422950165
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 2c799cacf06149d99efcd5c44211d886
+run_name: enchanting-ray-863
+run_uuid: 2c799cacf06149d99efcd5c44211d886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694422950116
+status: 4
+tags: []
+user_id: Hodaya Sasson

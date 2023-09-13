@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/9da5318d269d4cc5bb25e3fb46c3bacc/artifacts
+end_time: 1694349383772
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 9da5318d269d4cc5bb25e3fb46c3bacc
+run_name: bald-fox-425
+run_uuid: 9da5318d269d4cc5bb25e3fb46c3bacc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694349383706
+status: 3
+tags: []
+user_id: Hodaya Sasson

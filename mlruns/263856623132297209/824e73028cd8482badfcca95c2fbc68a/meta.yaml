@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/824e73028cd8482badfcca95c2fbc68a/artifacts
+end_time: 1694293369204
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 824e73028cd8482badfcca95c2fbc68a
+run_name: incongruous-fox-786
+run_uuid: 824e73028cd8482badfcca95c2fbc68a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694293369136
+status: 3
+tags: []
+user_id: Hodaya Sasson

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/56ee0272a6144586b2533ee7a2dd5954/artifacts
+end_time: 1694331701527
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 56ee0272a6144586b2533ee7a2dd5954
+run_name: mercurial-gull-38
+run_uuid: 56ee0272a6144586b2533ee7a2dd5954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694331701456
+status: 3
+tags: []
+user_id: Hodaya Sasson

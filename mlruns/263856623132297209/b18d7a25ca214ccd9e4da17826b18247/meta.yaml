@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/b18d7a25ca214ccd9e4da17826b18247/artifacts
+end_time: 1694290370878
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: b18d7a25ca214ccd9e4da17826b18247
+run_name: legendary-shrew-746
+run_uuid: b18d7a25ca214ccd9e4da17826b18247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694290370820
+status: 4
+tags: []
+user_id: Hodaya Sasson

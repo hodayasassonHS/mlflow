@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/d81a5902b99642e3bb87dc027ab101dc/artifacts
+end_time: 1694331799230
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: d81a5902b99642e3bb87dc027ab101dc
+run_name: thoughtful-lark-328
+run_uuid: d81a5902b99642e3bb87dc027ab101dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694331799162
+status: 3
+tags: []
+user_id: Hodaya Sasson

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/74e16057dc774ba49769628f1cde1c1d/artifacts
+end_time: 1694436332306
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 74e16057dc774ba49769628f1cde1c1d
+run_name: placid-chimp-481
+run_uuid: 74e16057dc774ba49769628f1cde1c1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694436332241
+status: 3
+tags: []
+user_id: Hodaya Sasson

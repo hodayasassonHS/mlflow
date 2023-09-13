@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/a0ef610118824152a535a5b5356796e8/artifacts
+end_time: 1694422592683
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: a0ef610118824152a535a5b5356796e8
+run_name: secretive-kit-84
+run_uuid: a0ef610118824152a535a5b5356796e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694422592636
+status: 3
+tags: []
+user_id: Hodaya Sasson

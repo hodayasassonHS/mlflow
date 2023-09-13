@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/2f4141bc657a46248fe37c1f3af71c72/artifacts
+end_time: 1694289759341
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 2f4141bc657a46248fe37c1f3af71c72
+run_name: resilient-zebra-20
+run_uuid: 2f4141bc657a46248fe37c1f3af71c72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694289759284
+status: 4
+tags: []
+user_id: Hodaya Sasson

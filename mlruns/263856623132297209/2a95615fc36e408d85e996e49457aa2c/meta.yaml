@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/2a95615fc36e408d85e996e49457aa2c/artifacts
+end_time: 1694293354695
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 2a95615fc36e408d85e996e49457aa2c
+run_name: overjoyed-ox-962
+run_uuid: 2a95615fc36e408d85e996e49457aa2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694293354629
+status: 3
+tags: []
+user_id: Hodaya Sasson

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/18532ea3e84442bebef39cd420bb147c/artifacts
+end_time: 1694422145124
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 18532ea3e84442bebef39cd420bb147c
+run_name: learned-squid-654
+run_uuid: 18532ea3e84442bebef39cd420bb147c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694422145061
+status: 3
+tags: []
+user_id: Hodaya Sasson

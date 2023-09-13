@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/25fd6169bd9344dba1a8e19433a74de6/artifacts
+end_time: 1694424844104
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 25fd6169bd9344dba1a8e19433a74de6
+run_name: zealous-ray-133
+run_uuid: 25fd6169bd9344dba1a8e19433a74de6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694424844037
+status: 3
+tags: []
+user_id: Hodaya Sasson

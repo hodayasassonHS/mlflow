@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/81e8823a788e4a3b84956ed287b5469b/artifacts
+end_time: 1694443708146
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 81e8823a788e4a3b84956ed287b5469b
+run_name: charming-dolphin-178
+run_uuid: 81e8823a788e4a3b84956ed287b5469b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694443708068
+status: 3
+tags: []
+user_id: Hodaya Sasson

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/be5e46c640a44f51b5a4e1f03b1b2a14/artifacts
+end_time: 1694291114247
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: be5e46c640a44f51b5a4e1f03b1b2a14
+run_name: funny-ox-387
+run_uuid: be5e46c640a44f51b5a4e1f03b1b2a14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694291114191
+status: 4
+tags: []
+user_id: Hodaya Sasson

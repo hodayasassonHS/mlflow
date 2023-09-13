@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/434d8e0e980e41f1ad86cb725c4d82a1/artifacts
+end_time: 1694293465689
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 434d8e0e980e41f1ad86cb725c4d82a1
+run_name: dazzling-grouse-839
+run_uuid: 434d8e0e980e41f1ad86cb725c4d82a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694293465631
+status: 3
+tags: []
+user_id: Hodaya Sasson

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/651ef4bd171145728721f8c5012ec1ec/artifacts
+end_time: 1694293474533
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 651ef4bd171145728721f8c5012ec1ec
+run_name: nebulous-stag-251
+run_uuid: 651ef4bd171145728721f8c5012ec1ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694293474477
+status: 3
+tags: []
+user_id: Hodaya Sasson

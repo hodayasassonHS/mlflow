@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/1ea6df48ba6b4747a8ab3a27cb02c93b/artifacts
+end_time: 1694331671286
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 1ea6df48ba6b4747a8ab3a27cb02c93b
+run_name: honorable-ram-51
+run_uuid: 1ea6df48ba6b4747a8ab3a27cb02c93b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694331671198
+status: 3
+tags: []
+user_id: Hodaya Sasson

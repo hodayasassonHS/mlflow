@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/a63c385bccda421dbed3a30bad00d06b/artifacts
+end_time: 1694290116447
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: a63c385bccda421dbed3a30bad00d06b
+run_name: nebulous-finch-533
+run_uuid: a63c385bccda421dbed3a30bad00d06b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694290116390
+status: 4
+tags: []
+user_id: Hodaya Sasson

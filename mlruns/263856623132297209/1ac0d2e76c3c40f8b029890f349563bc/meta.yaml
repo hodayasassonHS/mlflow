@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/1ac0d2e76c3c40f8b029890f349563bc/artifacts
+end_time: 1694331707916
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 1ac0d2e76c3c40f8b029890f349563bc
+run_name: colorful-jay-400
+run_uuid: 1ac0d2e76c3c40f8b029890f349563bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694331707845
+status: 3
+tags: []
+user_id: Hodaya Sasson

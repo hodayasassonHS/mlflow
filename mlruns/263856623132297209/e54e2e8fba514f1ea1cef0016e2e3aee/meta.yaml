@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/e54e2e8fba514f1ea1cef0016e2e3aee/artifacts
+end_time: 1694291771248
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: e54e2e8fba514f1ea1cef0016e2e3aee
+run_name: capricious-foal-87
+run_uuid: e54e2e8fba514f1ea1cef0016e2e3aee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694291771191
+status: 4
+tags: []
+user_id: Hodaya Sasson

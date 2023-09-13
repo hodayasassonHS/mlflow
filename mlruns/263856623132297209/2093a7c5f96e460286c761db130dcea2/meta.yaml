@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/2093a7c5f96e460286c761db130dcea2/artifacts
+end_time: 1694293357633
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 2093a7c5f96e460286c761db130dcea2
+run_name: efficient-mare-354
+run_uuid: 2093a7c5f96e460286c761db130dcea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694293357571
+status: 3
+tags: []
+user_id: Hodaya Sasson

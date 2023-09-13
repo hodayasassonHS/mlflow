@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/5b4254f309724a05a514e2799a52a8fb/artifacts
+end_time: 1694293377117
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 5b4254f309724a05a514e2799a52a8fb
+run_name: useful-swan-826
+run_uuid: 5b4254f309724a05a514e2799a52a8fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694293377053
+status: 3
+tags: []
+user_id: Hodaya Sasson

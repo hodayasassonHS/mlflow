@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/f9a3f93bf2594d78aa8d7b0ae6a99509/artifacts
+end_time: 1694423696338
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: f9a3f93bf2594d78aa8d7b0ae6a99509
+run_name: vaunted-koi-98
+run_uuid: f9a3f93bf2594d78aa8d7b0ae6a99509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694423696281
+status: 3
+tags: []
+user_id: Hodaya Sasson

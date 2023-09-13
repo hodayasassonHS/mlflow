@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/1a86b3a9585a4494a9126ecc8fb3371c/artifacts
+end_time: 1694289282627
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 1a86b3a9585a4494a9126ecc8fb3371c
+run_name: sassy-worm-322
+run_uuid: 1a86b3a9585a4494a9126ecc8fb3371c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694289282595
+status: 4
+tags: []
+user_id: Hodaya Sasson

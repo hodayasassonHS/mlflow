@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/682833eacccf4cb8add31f5ad5e8a19c/artifacts
+end_time: 1694293365521
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 682833eacccf4cb8add31f5ad5e8a19c
+run_name: masked-deer-119
+run_uuid: 682833eacccf4cb8add31f5ad5e8a19c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694293365454
+status: 3
+tags: []
+user_id: Hodaya Sasson

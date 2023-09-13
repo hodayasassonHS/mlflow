@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/259c763d94d14105a72571af1645e907/artifacts
+end_time: 1694431623201
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 259c763d94d14105a72571af1645e907
+run_name: whimsical-cow-94
+run_uuid: 259c763d94d14105a72571af1645e907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694431623128
+status: 3
+tags: []
+user_id: Hodaya Sasson

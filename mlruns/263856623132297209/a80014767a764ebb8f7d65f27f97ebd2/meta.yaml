@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/a80014767a764ebb8f7d65f27f97ebd2/artifacts
+end_time: 1694290635179
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: a80014767a764ebb8f7d65f27f97ebd2
+run_name: bustling-skunk-296
+run_uuid: a80014767a764ebb8f7d65f27f97ebd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694290635114
+status: 4
+tags: []
+user_id: Hodaya Sasson

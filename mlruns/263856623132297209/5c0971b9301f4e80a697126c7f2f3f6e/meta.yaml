@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/5c0971b9301f4e80a697126c7f2f3f6e/artifacts
+end_time: 1694293343006
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 5c0971b9301f4e80a697126c7f2f3f6e
+run_name: funny-crow-382
+run_uuid: 5c0971b9301f4e80a697126c7f2f3f6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694293342940
+status: 3
+tags: []
+user_id: Hodaya Sasson

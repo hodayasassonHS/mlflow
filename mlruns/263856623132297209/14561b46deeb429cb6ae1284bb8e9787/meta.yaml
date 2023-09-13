@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/14561b46deeb429cb6ae1284bb8e9787/artifacts
+end_time: 1694289423498
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 14561b46deeb429cb6ae1284bb8e9787
+run_name: nimble-fish-298
+run_uuid: 14561b46deeb429cb6ae1284bb8e9787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694289423426
+status: 4
+tags: []
+user_id: Hodaya Sasson

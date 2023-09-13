@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/094b27de9b5f43d4b9cec7c808368a0e/artifacts
+end_time: 1694425252680
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 094b27de9b5f43d4b9cec7c808368a0e
+run_name: sassy-bee-263
+run_uuid: 094b27de9b5f43d4b9cec7c808368a0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694425252607
+status: 3
+tags: []
+user_id: Hodaya Sasson

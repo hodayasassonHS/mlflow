@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/cbb185a3307643e987ebf70746c360f1/artifacts
+end_time: 1694290295242
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: cbb185a3307643e987ebf70746c360f1
+run_name: bald-goat-195
+run_uuid: cbb185a3307643e987ebf70746c360f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694290295185
+status: 4
+tags: []
+user_id: Hodaya Sasson

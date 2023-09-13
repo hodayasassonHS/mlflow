@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/e177c8b8ebff4e63a6fd39e8fe2bd049/artifacts
+end_time: 1694329587881
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: e177c8b8ebff4e63a6fd39e8fe2bd049
+run_name: grandiose-rook-412
+run_uuid: e177c8b8ebff4e63a6fd39e8fe2bd049
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694329587818
+status: 3
+tags: []
+user_id: Hodaya Sasson

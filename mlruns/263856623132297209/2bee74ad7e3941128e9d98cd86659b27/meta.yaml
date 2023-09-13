@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/2bee74ad7e3941128e9d98cd86659b27/artifacts
+end_time: 1694331715899
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 2bee74ad7e3941128e9d98cd86659b27
+run_name: grandiose-shrimp-428
+run_uuid: 2bee74ad7e3941128e9d98cd86659b27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694331715833
+status: 3
+tags: []
+user_id: Hodaya Sasson

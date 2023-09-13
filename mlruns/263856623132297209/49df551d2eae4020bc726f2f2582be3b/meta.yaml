@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/49df551d2eae4020bc726f2f2582be3b/artifacts
+end_time: 1694292550762
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 49df551d2eae4020bc726f2f2582be3b
+run_name: suave-sponge-559
+run_uuid: 49df551d2eae4020bc726f2f2582be3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694292550689
+status: 3
+tags: []
+user_id: Hodaya Sasson

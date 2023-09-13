@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/c990a9dd035f43f1adc24127c5ee486a/artifacts
+end_time: 1694423689090
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: c990a9dd035f43f1adc24127c5ee486a
+run_name: lyrical-snail-151
+run_uuid: c990a9dd035f43f1adc24127c5ee486a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694423689049
+status: 3
+tags: []
+user_id: Hodaya Sasson

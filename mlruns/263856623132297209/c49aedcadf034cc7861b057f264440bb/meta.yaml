@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/c49aedcadf034cc7861b057f264440bb/artifacts
+end_time: 1694291040942
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: c49aedcadf034cc7861b057f264440bb
+run_name: industrious-pig-588
+run_uuid: c49aedcadf034cc7861b057f264440bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694291040865
+status: 4
+tags: []
+user_id: Hodaya Sasson

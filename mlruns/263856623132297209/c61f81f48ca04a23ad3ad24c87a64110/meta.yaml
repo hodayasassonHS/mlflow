@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/c61f81f48ca04a23ad3ad24c87a64110/artifacts
+end_time: 1694289617862
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: c61f81f48ca04a23ad3ad24c87a64110
+run_name: sedate-hawk-280
+run_uuid: c61f81f48ca04a23ad3ad24c87a64110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694289617800
+status: 4
+tags: []
+user_id: Hodaya Sasson

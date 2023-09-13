@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/3ed0fc1e1cb7459191cd375a2cae15c1/artifacts
+end_time: 1694291806566
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 3ed0fc1e1cb7459191cd375a2cae15c1
+run_name: merciful-smelt-901
+run_uuid: 3ed0fc1e1cb7459191cd375a2cae15c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694291806484
+status: 3
+tags: []
+user_id: Hodaya Sasson

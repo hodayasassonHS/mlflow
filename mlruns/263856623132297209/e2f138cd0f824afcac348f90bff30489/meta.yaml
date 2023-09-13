@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/e2f138cd0f824afcac348f90bff30489/artifacts
+end_time: 1694422943539
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: e2f138cd0f824afcac348f90bff30489
+run_name: bustling-moose-549
+run_uuid: e2f138cd0f824afcac348f90bff30489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694422943468
+status: 3
+tags: []
+user_id: Hodaya Sasson

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hodaya%20Sasson/Documents/bootkamp/CIFAR10_Classifier/mlruns/263856623132297209/51ae956cd8e94c1287f303808898d3cc/artifacts
+end_time: 1694422691563
+entry_point_name: ''
+experiment_id: '263856623132297209'
+lifecycle_stage: active
+run_id: 51ae956cd8e94c1287f303808898d3cc
+run_name: upbeat-trout-591
+run_uuid: 51ae956cd8e94c1287f303808898d3cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694422691491
+status: 3
+tags: []
+user_id: Hodaya Sasson
